@@ -1,0 +1,64 @@
+body{
+  margin-left: 250px;
+  margin-top: 50px;  
+}
+.kutular{
+    margin: 10px;
+    background-color: lightcoral;    
+}
+.kutular1{  
+    display: grid;
+    grid-template-columns: 420px 220px 220px;
+}
+#kutu1_1{
+  height: 50px;
+}
+#kutu1_2{
+   height: 50px;
+}
+#kutu1_3{    
+  height: 50px;
+}
+.kutular2{  
+  display: grid;
+  grid-template-columns: 640px 220px ;
+}
+#kutu2_1{    
+  height: 50px;  
+}
+#kutu2_2{  
+ height: 50px;
+}
+.kutular3{
+  display: grid;
+  grid-template-columns: 220px 420px 220px  ;}
+  #kutu3_1{    
+    height: 50px;    
+    margin-bottom: 20px;    
+  }  
+  #kutu3_3{
+    height: 120px;     
+  }
+  #kutu3_4{      
+     height: 120px;    
+  }
+  #kutu3_2{ 
+    height: 50px;        
+  }
+.kutular4{
+  display: grid;
+  grid-template-columns: 220px 420px 220px ;
+}
+#kutu4_1{    
+  height: 50px;  
+}
+#kutu4_2{   
+  height: 50px;  
+}
+#kutu4_3{ 
+  height: 50px;
+}
+
+
+
+
